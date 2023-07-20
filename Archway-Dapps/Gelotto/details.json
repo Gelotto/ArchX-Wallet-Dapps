@@ -1,0 +1,13 @@
+{
+  "name": "Gelotto",
+  "description": "Gelotto is a Web3 venture focused on Gaming, NFTs, and Validators",
+  "dappImages": {
+    "dappBanner": "gelotto-banner.png",
+    "dappLogo": "gelotto-logo.png"
+  },
+  "websiteUrl": {
+    "mainnet": "https://gelotto.io/"
+  },
+  "category": ["Gaming & Utilities-Developer Tools"],
+  "enabled": true
+}
